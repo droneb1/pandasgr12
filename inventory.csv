@@ -1,0 +1,21 @@
+Item_ID,Product_Name,Season,Stock_Quantity,Price,Status
+S001,Beach Umbrella,Summer,45,24.99,In Stock
+S002,Winter Coat,Winter,12,89.99,Low Stock
+S003,Pumpkin Decorations,Fall,156,8.50,In Stock
+S004,Christmas Lights,Winter,78,15.99,In Stock
+S005,Garden Seeds,Spring,234,3.25,In Stock
+S006,Pool Float,Summer,23,19.99,Low Stock
+S007,Halloween Costume,Fall,67,29.99,In Stock
+S008,Snow Shovel,Winter,89,22.50,In Stock
+S009,Easter Decorations,Spring,145,12.99,In Stock
+S010,Sunscreen SPF 50,Summer,198,9.99,In Stock
+S011,Leaf Blower,Fall,34,125.00,Low Stock
+S012,Space Heater,Winter,56,79.99,In Stock
+S013,Flower Bulbs,Spring,289,4.99,In Stock
+S014,Beach Ball,Summer,112,6.99,In Stock
+S015,Thanksgiving Tablecloth,Fall,78,18.99,In Stock
+S016,Ice Scraper,Winter,167,7.99,In Stock
+S017,Lawn Fertilizer,Spring,134,16.50,In Stock
+S018,Camping Chair,Summer,91,35.99,In Stock
+S019,Corn Maze Sign,Fall,23,45.00,Low Stock
+S020,Holiday Wreath,Winter,87,32.99,In Stock

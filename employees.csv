@@ -1,0 +1,201 @@
+Employee Name,Employee Number,Salary,Join Date,Department,Email,Phone Number,Position
+Diana Tran,2890,109267.12,2021-02-20,Engineering,bperez@example.com,3314539028,Manager
+Devin Velazquez,8940,75371.36,2021-01-20,Marketing,linda96@example.net,(561)660-2408x176,Administrator
+Frank Blevins MD,5800,103843.58,2024-07-20,HR,fryejill@example.net,4825542884,Administrator
+Kathleen Martinez,3889,79436.7,2024-05-19,Sales,davenportjordan@example.org,451.579.1557x5742,Specialist
+Lisa Weber,5826,105843.83,2024-07-04,HR,evelynmckenzie@example.org,261-746-9752,Coordinator
+Jordan Morales,2774,97187.12,2016-10-04,Finance,walterbradley@example.org,813.777.8589,Engineer
+Christopher Swanson,4480,82941.48,2018-10-15,Sales,ogoodwin@example.net,210-374-2207,Manager
+Amber Smith,1698,68125.55,2023-10-30,IT Support,crystaldaniels@example.org,428-408-1973x454,Coordinator
+Ethan Harper,7059,73527.27,2017-03-14,Marketing,christopherbrown@example.net,(728)949-6840x02105,Analyst
+Misty White,9203,119849.59,2019-09-11,IT Support,castroadam@example.org,+1-936-518-5284x5113,Coordinator
+George Schmidt,1686,93243.58,2024-07-15,IT Support,ianboyd@example.com,388.242.6462,Coordinator
+Margaret Franklin,6184,50923.4,2021-07-16,Marketing,emoore@example.com,+1-262-761-7809x4964,Specialist
+Michael Ramirez,1705,63056.69,2020-07-21,HR,richardhansen@example.net,+1-958-688-6303x76843,Administrator
+Joshua Phillips,9171,74240.38,2018-06-14,Engineering,saralane@example.net,001-662-553-6340x7856,Analyst
+Peggy Hernandez,1644,106400.96,2020-09-19,Sales,bonniezimmerman@example.com,608.533.9248,Manager
+Chad Wilson,1577,116758.36,2017-07-02,HR,lawsontheresa@example.org,001-692-217-4079,Administrator
+Robert Martinez,5125,106899.7,2022-02-10,Finance,danielyoung@example.org,755.325.0766x0904,Specialist
+Brenda Gilmore,6805,65511.52,2020-08-16,Finance,amber56@example.org,001-483-561-5017x988,Manager
+Cynthia Frye,5922,84616.29,2021-09-10,Engineering,timothy88@example.org,+1-415-895-2260x1167,Coordinator
+Joshua Gilbert,8015,96833.07,2023-03-17,HR,linkevin@example.net,(706)479-9538x15522,Administrator
+Samuel Rojas,6250,110485.62,2020-04-24,Engineering,terricarter@example.org,001-926-791-2058x430,Administrator
+Ashley Compton,2080,117150.02,2022-06-13,Finance,nschneider@example.org,418.400.3094x67843,Specialist
+Jared Golden,2662,59518.7,2020-06-30,Engineering,sorr@example.org,+1-838-630-4837,Administrator
+Brian Hughes,2077,82367.91,2016-04-08,IT Support,howardadam@example.org,(584)261-4692x44745,Administrator
+Jennifer Chen,3941,115142.32,2018-02-27,IT Support,andrewjennings@example.org,761.949.7228x54899,Specialist
+Kathy Clarke,9071,82662.14,2020-09-22,Marketing,katelyn28@example.org,+1-705-911-3828,Engineer
+Kaitlyn Travis,6461,109070.24,2022-11-05,Marketing,conleymegan@example.com,824.823.5763x03272,Coordinator
+Richard Olson,9084,107664.97,2019-08-09,Engineering,walter67@example.com,350.377.3356,Analyst
+Kelly Martin,1990,76963.67,2020-04-21,Marketing,dgreen@example.com,001-739-797-3189x576,Manager
+Nicole Jefferson,3851,52073.56,2024-01-30,HR,martinezmelissa@example.net,587-219-4222,Administrator
+Paula Shea,9993,87782.91,2017-06-21,Marketing,julie54@example.org,001-404-454-1197,Administrator
+Gary Park,1783,55125.29,2017-07-27,Marketing,bakerchristine@example.net,542-647-4543,Engineer
+Dawn Patel,8208,77292.27,2021-05-11,Engineering,xwright@example.com,369-515-7578x4318,Analyst
+Regina Gray,1814,94661.79,2024-05-24,Finance,stevenesparza@example.net,001-211-516-1465x12874,Coordinator
+Mike Williams,7532,63866.04,2024-03-25,Engineering,delgadoemily@example.net,+1-610-868-8571,Administrator
+Jennifer Acosta,1856,66153.05,2018-07-14,HR,robinsoneric@example.org,539-976-6155,Specialist
+Matthew Tapia,3144,94480.92,2021-02-25,Marketing,allen31@example.net,358-809-4412,Specialist
+Sydney Cook,8662,102640.59,2021-02-02,Engineering,wjackson@example.com,5354470403,Manager
+Gerald Gomez,4813,111417.48,2021-10-24,HR,xshelton@example.org,001-834-359-7716x7253,Specialist
+Allen Ramirez,9857,104001.9,2019-01-28,HR,baileyrobert@example.net,(493)814-9331x47414,Coordinator
+Patrick Wolf,8703,118034.6,2018-03-09,Engineering,bford@example.com,+1-918-821-1530,Administrator
+Kristopher Cobb,2308,77841.81,2018-11-03,Finance,johnsonzachary@example.com,001-605-388-7449x257,Manager
+Philip Davis,2536,53834.82,2015-07-14,Finance,raytaylor@example.org,531-408-3308x6638,Manager
+Daniel Nelson,4785,78062.01,2016-01-14,Engineering,stephenjordan@example.com,644.900.5967x62725,Analyst
+Alicia Roy,4882,75624.57,2024-09-21,IT Support,lhines@example.org,+1-525-728-1287x39162,Coordinator
+Bridget Gallagher,8304,97228.27,2023-07-24,Engineering,mhoffman@example.net,001-294-792-3922,Manager
+Bethany Kelly,2934,108748.91,2015-06-08,Sales,galvanelizabeth@example.net,928-669-3977,Engineer
+Teresa Lester,6034,89759.12,2016-07-23,Finance,nburke@example.org,+1-940-935-2654,Engineer
+Jacqueline Collins,1955,98642.07,2018-08-02,HR,martinezamy@example.org,(666)666-6008,Manager
+Jason Evans,2445,73727.93,2022-09-26,HR,burnsrobert@example.com,+1-651-217-1543x88427,Engineer
+Chad Jones,6242,59784.83,2016-08-15,Finance,qdavid@example.org,(342)284-4348x263,Analyst
+Robert Carrillo,3600,96067.73,2021-10-26,Sales,rachel62@example.org,349-988-9811,Analyst
+Andre Olson,5298,59483.17,2024-08-11,Finance,ithompson@example.net,9913656564,Manager
+Robyn Miller,3346,86459.97,2021-07-08,IT Support,gabrielle54@example.org,(323)723-4986x9202,Coordinator
+Craig Brown,9148,93760.35,2022-07-31,IT Support,weissbriana@example.net,9625366716,Engineer
+Jason Johnson,2228,99024.72,2023-07-17,Sales,melissa51@example.org,586.476.1694x85770,Coordinator
+John Mcintosh,2452,77601.85,2017-08-24,Engineering,stephencruz@example.net,919-733-6361x718,Engineer
+Charles Mcbride,9415,99469.37,2022-09-25,Marketing,michaelbaker@example.org,(377)789-0731x13671,Engineer
+Jacob Hughes,3995,57947.49,2023-03-08,Engineering,williamdavis@example.org,(868)420-1512x540,Administrator
+Dr. Elizabeth Hutchinson DDS,4113,68111.9,2017-08-11,Finance,eglenn@example.com,802-253-9855x8733,Engineer
+Martin Price,9464,81024.22,2019-05-13,HR,bwalker@example.com,(269)801-8942,Administrator
+Andrea Howe,2952,105188.33,2016-01-23,Finance,amandamcguire@example.net,+1-351-631-9736,Manager
+Anna Cunningham,2156,107899.79,2016-05-15,Marketing,michael91@example.com,(582)938-7013x04188,Manager
+Christopher Kennedy,8382,113236.25,2018-01-13,Engineering,sarah72@example.org,7099883915,Specialist
+Paul Bowen,3116,56035.78,2016-07-01,Sales,tiffany43@example.com,001-364-647-9396x0600,Administrator
+Robert Williams,8457,112798.17,2023-06-09,Finance,poncemichael@example.org,472-618-9286x647,Analyst
+Joshua Alvarez,6638,55321.78,2020-06-09,Engineering,wwhite@example.com,+1-841-410-1416,Specialist
+Julie Melton,3481,107323.98,2025-02-19,IT Support,xfaulkner@example.com,495.672.8281x14951,Manager
+Mary Walker,1368,81305.54,2023-06-16,Sales,robert67@example.com,344.626.8081x88196,Manager
+Carrie Wilson,1703,107093.47,2018-07-20,HR,tcobb@example.net,833.457.1507x31031,Coordinator
+Joshua Flores,7070,66892.4,2016-02-24,Marketing,lcarlson@example.com,6788457726,Coordinator
+Dr. Jesus Jimenez Jr.,1905,60284.93,2019-05-15,Finance,cindyturner@example.org,(907)856-1754,Manager
+Nathaniel Lynch,3257,69949.93,2017-06-16,Marketing,michael95@example.net,+1-568-237-7593x3612,Engineer
+Jane Gay,3099,76094.33,2021-08-11,HR,susan06@example.net,779-628-1593x180,Coordinator
+Michael Sanchez MD,7433,115591.79,2019-03-11,Sales,herbertfranklin@example.com,+1-794-619-9707x6865,Administrator
+Sydney Fuller,7317,91844.38,2020-10-17,Marketing,sarah41@example.net,+1-385-689-2512x48636,Analyst
+Martha Hensley,6381,100556.9,2018-07-31,Engineering,veronica61@example.net,470.859.4938x29879,Administrator
+Mark Butler,7119,69857.42,2025-02-01,Sales,joshuabarrett@example.com,210-323-4371x9671,Engineer
+Natalie Reese,9454,59960.58,2020-12-27,Finance,wwoodward@example.com,+1-411-389-9051,Analyst
+Alyssa Knapp,9493,72363.94,2016-06-23,Finance,seanmorrow@example.com,(887)548-7695x37965,Specialist
+William Ramos,5493,68396.93,2015-08-05,Finance,eugene66@example.com,001-363-642-1960x3430,Engineer
+Anita Hayes,2249,104897.52,2021-06-23,IT Support,madison70@example.net,+1-814-678-0803x595,Manager
+Mary Ramos,3779,52561.85,2016-03-06,HR,pachecokara@example.org,+1-845-468-8104x1178,Manager
+Erin Austin,6126,52997.5,2022-02-10,Sales,marksherman@example.net,995-427-1891x7948,Engineer
+Bruce Park,6832,88129.19,2018-07-03,HR,zbell@example.com,001-431-695-7204x407,Analyst
+Miranda Beasley,1324,113423.84,2021-01-03,HR,smithjames@example.com,+1-208-894-6448x731,Administrator
+Timothy Wright,8530,84280.79,2021-02-05,Finance,jonessherry@example.com,001-743-266-3610,Engineer
+Harold Mora,3614,118715.54,2018-02-09,Engineering,brownrobert@example.com,2575804125,Analyst
+Heather Murray,2335,77039.53,2018-06-08,IT Support,rachel13@example.org,+1-529-208-6546x8581,Coordinator
+Laura Silva,5097,61576.8,2021-02-05,Sales,jaycole@example.com,001-422-207-3390,Analyst
+John Tyler,5887,65407.72,2016-02-21,HR,joseph01@example.org,+1-822-266-6865,Administrator
+Joshua Anderson,9413,99343.03,2022-09-28,Sales,wbruce@example.com,(947)522-7858x4275,Specialist
+Aaron Hernandez,1634,54055.66,2019-07-08,Sales,mariahmiller@example.com,6225646736,Analyst
+Gary Brown,8738,115624.33,2025-01-20,HR,troymcmahon@example.org,576-509-7784x1043,Specialist
+Nicholas Marsh,1482,102278.42,2023-09-02,HR,daniel85@example.org,001-672-206-5456,Manager
+Gregory Walker,6462,61197.92,2018-03-20,Sales,obean@example.net,(781)935-0375x113,Administrator
+Kathryn Montoya,2064,117038.29,2020-11-21,Finance,isantos@example.com,281.516.6655x6187,Specialist
+Melissa Jones,6816,84196.23,2019-08-19,IT Support,townsendveronica@example.net,001-737-513-1748x051,Manager
+John Miller,7297,99500.3,2016-09-22,HR,troyblack@example.net,627-684-8515,Analyst
+Susan Wilson,1600,71941.04,2019-12-25,Marketing,benjamin43@example.org,764.442.9376x165,Administrator
+Diana Rodriguez,7918,100839.14,2017-07-22,Sales,laura61@example.org,495-386-1972,Coordinator
+Andrea Anderson,7661,119857.31,2017-02-01,Engineering,brian17@example.com,(879)826-0481,Engineer
+Nancy Williams,7643,99693.76,2018-03-10,HR,gibsonjames@example.net,501-236-3619x7243,Coordinator
+Crystal Tucker,9742,62444.61,2024-10-11,HR,angelanorris@example.net,(474)535-7462,Administrator
+Scott Gonzales,1430,72923.99,2017-01-30,Engineering,ftucker@example.com,001-691-896-6125x20512,Manager
+Cynthia Gonzalez,4250,92120.74,2018-09-14,Finance,schmidtrebecca@example.org,+1-997-736-2624x63488,Administrator
+Lisa Garrett,7142,119202.82,2024-12-14,Sales,lisashepherd@example.org,509.457.3598,Analyst
+Raymond Kennedy,4587,118484.32,2017-06-28,IT Support,theresa80@example.org,4236290717,Specialist
+Michael Ward,1011,88764.06,2019-05-19,HR,kennethmullins@example.net,2095259820,Coordinator
+Amy Ward DDS,3639,83466.25,2018-10-31,Engineering,courtneytorres@example.com,324.722.9909x69824,Administrator
+William Mcclure,2704,56985.72,2023-05-24,Engineering,johnsonholly@example.net,242.411.3898x9235,Coordinator
+Bryan Fox,6874,79840.35,2020-02-12,Finance,michellewade@example.org,001-964-321-9789x030,Engineer
+Deborah Delgado,2967,100474.79,2016-01-07,Sales,megan07@example.org,(754)525-1563x766,Specialist
+Megan Stephens,2425,56027.05,2015-08-14,Finance,christopherhernandez@example.org,524.281.6027,Specialist
+Jared Mueller,3444,104280.13,2024-10-30,Finance,dberger@example.org,232-808-5224x040,Engineer
+Daniel Frank,4134,119413.8,2015-11-20,HR,ehammond@example.com,537-924-6385x290,Manager
+Jordan Willis,1585,113488.17,2023-01-29,Marketing,chelsea08@example.com,493.413.9087,Administrator
+Miranda Powell,9207,98655.24,2024-09-06,HR,apowell@example.org,970.475.3889,Coordinator
+Amanda Moore,9244,99752.0,2020-08-29,Sales,ochoajennifer@example.com,+1-954-696-8563,Coordinator
+Bruce Ruiz,6928,96919.28,2017-06-19,IT Support,rachael70@example.com,001-364-492-8598x4363,Engineer
+Chris Houston,7698,117443.11,2020-10-01,Engineering,noahdominguez@example.net,940.238.5982,Specialist
+Jessica Friedman,2329,87708.25,2019-04-30,Sales,richardbrown@example.com,590-666-0917,Specialist
+Christopher Soto,1751,75047.69,2023-04-11,Sales,marciamontoya@example.com,(601)396-7691,Engineer
+Elizabeth Carr,5943,95591.08,2025-03-19,Finance,yacosta@example.net,519-962-4993,Coordinator
+James Jones,6112,62789.26,2022-09-10,HR,simsalexis@example.net,405.751.8063,Engineer
+Shannon Ortega,2289,86208.47,2019-11-14,Engineering,douglasbuchanan@example.com,6344934977,Analyst
+Elizabeth Hall,2926,89119.58,2022-06-24,HR,reesekayla@example.org,2736176602,Administrator
+Brenda Powers,1339,60556.3,2018-08-01,Finance,hayesdavid@example.org,9094746423,Analyst
+Lisa Hill DVM,2368,86860.96,2016-03-28,Sales,zdavidson@example.com,919.473.4671x022,Engineer
+Angela Hernandez,8143,62087.29,2018-02-09,Marketing,alicia97@example.com,523.213.5595x3306,Engineer
+Courtney Hoover,4892,64986.93,2023-05-02,Engineering,brownkaren@example.org,(802)841-8966,Manager
+Heather Tyler,7615,64355.17,2019-05-03,HR,lewismisty@example.org,418.467.4170x86940,Administrator
+Kelly Mason,8805,108028.18,2022-08-18,Marketing,michellejones@example.com,972-988-7099x355,Manager
+Jordan Davis,2376,63540.84,2015-06-29,IT Support,suzannenoble@example.net,(336)316-8059,Analyst
+David Zimmerman,4612,86960.99,2023-04-19,IT Support,raven87@example.net,+1-249-910-8474x6018,Coordinator
+Carlos Lee DDS,5589,72251.48,2021-08-16,IT Support,timothy48@example.org,+1-624-911-4550x7143,Engineer
+Brenda Campbell,6716,119930.16,2020-05-30,Finance,dennis84@example.net,+1-569-727-0308x049,Coordinator
+Elaine Wood,9631,93269.84,2017-07-04,HR,swansonrose@example.net,270.401.9071x37429,Coordinator
+Misty Hendrix,9485,58442.41,2022-06-12,Engineering,tyler71@example.org,705-963-2940x7961,Analyst
+Bryan Green,6404,97587.6,2022-02-24,Marketing,alvarezrobert@example.net,331-861-9328,Specialist
+Ryan Serrano,7426,61590.04,2021-08-10,Sales,scottjack@example.org,(959)936-2607x950,Manager
+Christopher Willis,5455,97634.64,2018-02-16,Sales,wmarquez@example.org,675.986.3509x1761,Administrator
+Kevin Obrien Jr.,4472,93071.68,2024-12-18,Finance,saunderschristopher@example.net,388.693.0882x80648,Coordinator
+James Black,2303,59796.01,2023-08-03,HR,psullivan@example.com,707-973-8095x225,Coordinator
+Carol Thomas,7199,117211.48,2023-04-04,HR,christopher05@example.net,385.342.7544x359,Analyst
+William Chapman,1353,118487.53,2019-12-22,HR,petersonmichael@example.net,001-591-542-5117x0292,Coordinator
+Anthony David,2401,112775.46,2020-04-25,IT Support,robert07@example.com,(573)907-9146,Manager
+Dillon Jenkins,8670,92080.34,2017-01-27,HR,jessicabarnett@example.net,001-966-707-5794x6986,Manager
+John Salinas,8873,97313.78,2017-07-14,Marketing,ybenjamin@example.org,707-884-9370x029,Specialist
+Kimberly Perez,8379,119906.69,2017-04-26,IT Support,zimmermanamber@example.org,+1-909-432-1982,Engineer
+Frank Arroyo,1951,50109.73,2024-10-30,Engineering,deanna57@example.com,(812)734-3975x1339,Analyst
+Jason Baldwin,4124,119453.55,2017-12-22,HR,michellewelch@example.org,(906)374-6379x2507,Engineer
+Michael Munoz,6447,70835.76,2024-03-12,Sales,smithalexandra@example.com,803.300.9982,Manager
+Erik Garza,1824,117116.27,2022-09-01,Sales,mwalters@example.net,(897)870-1693,Administrator
+Alex Williams,9180,70772.38,2015-12-06,Marketing,patrickroman@example.com,001-682-368-4779x185,Manager
+Robert Jordan,5879,86096.68,2015-06-21,Engineering,meganadams@example.com,(768)709-7033,Analyst
+Raven Griffith,5532,80697.13,2023-03-01,HR,benjamin48@example.org,297.327.6468x5691,Administrator
+Angelica Williams MD,8963,105548.5,2020-12-18,Finance,oyoung@example.com,(575)449-6928x6270,Coordinator
+Jorge Armstrong,3644,61345.73,2023-06-11,Sales,lduncan@example.com,(578)494-2133,Coordinator
+Stephanie Mercado,8402,118685.09,2020-08-12,IT Support,ellisonkevin@example.com,001-571-470-7310x87995,Engineer
+Frederick Pruitt,6464,55808.5,2017-06-27,Engineering,eadkins@example.org,+1-317-245-0829x8029,Engineer
+Isabella Davies,4814,65958.61,2021-04-26,Engineering,barnettrachel@example.org,001-954-235-6041x784,Engineer
+Valerie Hernandez,2589,54395.71,2024-12-12,Finance,weavermatthew@example.com,277.344.0438x1483,Administrator
+Jocelyn Ward,1490,51900.24,2021-09-04,Marketing,tanyacobb@example.net,7226772241,Engineer
+David Contreras,9045,105867.83,2023-02-06,Marketing,manderson@example.net,+1-412-431-5224x998,Coordinator
+Roy Hart,8487,55457.27,2024-12-28,Finance,mruiz@example.com,257-611-1189,Specialist
+Joshua Alvarez,4420,81363.76,2023-05-10,Sales,moranmichelle@example.com,804.495.8972x206,Manager
+Adriana Stevens,9403,66081.59,2016-11-22,Finance,bescobar@example.org,(474)378-7914x7335,Engineer
+Joyce Kelly,2297,105200.06,2019-06-16,Finance,andrew02@example.com,001-240-270-6399x597,Engineer
+Angela Keller,5223,94373.14,2023-10-04,IT Support,owolf@example.com,+1-476-264-6550,Administrator
+Ryan Peterson,4071,65592.64,2018-05-09,Marketing,elizabethhernandez@example.org,456-654-0838x14699,Coordinator
+Chase Parker,4532,92225.79,2024-04-20,IT Support,sheltonisabella@example.org,(624)914-7012x046,Manager
+Heather Lopez,9519,86824.71,2023-08-06,Marketing,cwells@example.net,001-336-805-7080x0810,Administrator
+Elizabeth Curry,1323,67508.33,2018-03-02,Finance,ihale@example.com,001-950-828-2296,Analyst
+Bryan Herrera,7811,56895.49,2021-12-28,Marketing,brendabrown@example.com,845-522-0783x51838,Analyst
+Stefanie Morrison,4085,62700.5,2018-03-10,Sales,paul93@example.net,8274367845,Analyst
+Tina Woods MD,3877,101622.04,2018-01-15,Finance,gilbertnicholas@example.com,378-936-0432x85243,Coordinator
+Katherine Johnson,4776,116979.77,2019-12-08,Engineering,scottmcmahon@example.net,(571)529-9749x763,Administrator
+David Alexander,7109,66955.69,2018-08-07,HR,malonezachary@example.org,338.517.7842x90190,Administrator
+William Pacheco,1396,84811.85,2022-01-24,Engineering,jeffrey68@example.net,531-629-7083x10774,Analyst
+Kathleen Rose,2684,99714.58,2020-08-27,Marketing,james28@example.com,801-426-8453x975,Manager
+Zachary Douglas,4276,118843.89,2024-09-12,Marketing,austin48@example.org,+1-541-285-7153,Coordinator
+Jason Dixon,6339,94921.52,2021-07-04,IT Support,keith61@example.org,413.678.8458x46812,Engineer
+Willie Reed,6799,79721.95,2022-04-18,Sales,floydryan@example.net,9395698084,Manager
+Shannon Mcmillan,8174,55117.85,2016-06-07,Sales,joannelopez@example.com,001-776-719-5585,Specialist
+Tina Baird,3547,50598.11,2019-09-06,IT Support,david64@example.net,(949)775-6256,Engineer
+Lauren Herrera,4935,92409.05,2017-02-02,IT Support,joewest@example.com,001-831-401-5373x881,Administrator
+Christopher Moore,5341,114064.34,2021-09-13,IT Support,joshua04@example.com,001-888-951-0223x4282,Engineer
+Rachel Kim,7973,80943.45,2023-12-08,Marketing,moralesmichelle@example.org,692.453.0219x8357,Administrator
+Joseph Brown,3293,57927.73,2015-09-13,HR,rodriguezadam@example.net,001-288-448-9166,Administrator
+Gail Herrera,4533,76342.53,2019-06-12,Marketing,chelsey62@example.net,5527428923,Coordinator
+James Campbell,3631,92093.14,2017-03-21,Marketing,shelley60@example.com,(837)503-2088x292,Engineer
+Tyler Hunter,1362,69545.64,2017-01-10,Marketing,shicks@example.net,(681)706-6421x2199,Coordinator
+Michael Williams,2153,65013.94,2022-08-21,Finance,brianturner@example.org,223-878-0706x9029,Manager
+Michelle Lewis,3813,59478.32,2019-12-01,Engineering,davidanderson@example.com,303-580-2073x980,Engineer
+Heather Stewart,8673,57561.27,2024-08-22,Sales,vmyers@example.net,001-678-228-9222,Engineer
+Ariel Hendricks,4842,111320.27,2023-05-17,IT Support,ostein@example.com,547.250.8490x31235,Manager
+Sean Clark,1691,100835.33,2020-03-16,Finance,loweamanda@example.com,+1-348-657-6850,Specialist
+Sarah Solis,8091,88848.41,2021-11-21,Engineering,chelsea62@example.org,9862877138,Engineer
+Melissa Hall,8721,78868.88,2021-07-30,Marketing,julie22@example.net,416-995-3587,Specialist
